@@ -9,7 +9,7 @@ When you run this module, it performs a few tasks under the hood:
 
 ### Compatibility
 
-The ```mysql``` module was tested with logs from versions 5.5 and 5.7.
+The ```MySQL``` module was tested with logs from versions 5.5 and 5.7.
 
 On Windows, the module was tested with MySQL installed from the Chocolatey repository.
 
